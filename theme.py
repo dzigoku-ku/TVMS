@@ -1,0 +1,13 @@
+"""Общая палитра окна расчёта и руководства."""
+
+WHITE = "#ffffff"
+APP = "#f5f7f8"
+INK = "#2c3642"
+MUTED = "#6a7784"
+ACCENT = "#4a6d82"
+ACCENT_ACTIVE = "#3e6174"
+LINE = "#d7e0e8"
+FIELD = "#6a7f90"
+RULE = "#c3ced8"
+CHIP = "#eef3f6"
+NOTE = "#f4f7f9"
